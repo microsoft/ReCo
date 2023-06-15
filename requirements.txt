@@ -13,7 +13,7 @@ opencv-python==4.2.0.34
 pudb==2019.2
 imageio==2.14.1
 imageio-ffmpeg==0.4.7
-pytorch-lightning==1.5.9
+pytorch-lightning==1.6.0
 omegaconf==2.1.1
 test-tube>=0.7.5
 streamlit>=0.73.1
