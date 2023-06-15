@@ -17,7 +17,7 @@ pytorch-lightning==1.5.9
 omegaconf==2.1.1
 test-tube>=0.7.5
 streamlit>=0.73.1
-setuptools==59.5.0
+setuptools==65.5.1
 pillow==9.0.1
 einops==0.4.1
 torch-fidelity==0.3.0
