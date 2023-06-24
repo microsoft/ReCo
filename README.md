@@ -67,7 +67,7 @@ path/to/azcopy copy https://unitab.blob.core.windows.net/data/reco/dataset <loca
 
 
 ## Inference and Checkpoints
-ReCo checkpoints trained on COCO and a small LAION subset can be downloaded via wget or [AzCopy](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10#download-azcopy) here [ReCo_COCO](https://unitab.blob.core.windows.net/data/reco/reco_coco.ckpt) and [ReCo_LAION](https://unitab.blob.core.windows.net/data/reco/reco_laion.ckpt). Save downloaded weights to ```logs```.
+ReCo checkpoints trained on COCO and a small LAION subset can be downloaded via wget or [AzCopy](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10#download-azcopy) here [ReCo_COCO](https://unitab.blob.core.windows.net/data/reco/reco_coco_616.ckpt) and [ReCo_LAION](https://unitab.blob.core.windows.net/data/reco/reco_laion_1232.ckpt). Save downloaded weights to ```logs```.
 
 ```inference.sh``` contains examples for inference calls
 
