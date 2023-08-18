@@ -60,7 +60,7 @@ path/to/azcopy copy https://unitab.blob.core.windows.net/data/reco/dataset <loca
 ```
 
 ## Data
-Download processed dataset annotations ```dataset``` folder in this [dataset path (~59G)](https://unitab.blob.core.windows.net/data/reco/dataset).
+Download processed dataset annotations ```dataset``` folder in the following dataset path (~59G) with [azcopy tool](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10#download-azcopy).
 ```
 path/to/azcopy copy https://unitab.blob.core.windows.net/data/reco/dataset <local_path> --recursive
 ```
