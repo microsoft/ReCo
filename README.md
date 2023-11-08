@@ -5,6 +5,9 @@ by [Zhengyuan Yang](https://zhengyuan.info), [Jianfeng Wang](http://jianfengwang
 
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
 
+**\*\*\*\*\* Update: ReCo is now available at Huggingface Diffusers![COCO Model](https://huggingface.co/j-min/reco_sd14_coco) [LAION Model](https://huggingface.co/j-min/reco_sd14_laion). 
+Credits to [Jaemin Cho](https://j-min.io/). Thank you! \*\*\*\*\***
+
 
 ### Introduction
 ReCo extends T2I models to understand coordinate inputs. Thanks to the introduced position tokens in the region-controlled input query, users can easily specify free-form regional descriptions in arbitrary image regions.
